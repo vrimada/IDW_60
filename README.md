@@ -1,6 +1,9 @@
 # GRUPO 60
 
 ## Integrantes 
+- Gabriela de los Angeles Camacho
+- Griselda Eggs
+- Martin Morondo
 - Valeria Aylin Travnik Armitano
 - Vanesa Mariana Rimada Maidana
 
