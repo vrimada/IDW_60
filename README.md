@@ -3,6 +3,7 @@
 ## Integrantes 
 - Gabriela de los Angeles Camacho
 - Griselda Eggs
+- Dylan Morales
 - Martin Morondo
 - Valeria Aylin Travnik Armitano
 - Vanesa Mariana Rimada Maidana
