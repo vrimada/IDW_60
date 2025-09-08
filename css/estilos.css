@@ -65,7 +65,13 @@ nav ul {
     background-color: rgb(78, 148, 43);
     color: white;
   }
-  
+
+  /* Estilos específicos para la lista de valores */
+.values {
+  list-style-type: disc;
+  padding-left: 20px;  
+}
+
 /* Banner */
 .video-banner {
     position: relative;
@@ -354,5 +360,6 @@ nav ul {
   font-size: 0.85rem;
   margin-top: 0.5rem;
 }
+
 
 
